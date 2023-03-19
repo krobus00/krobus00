@@ -17,4 +17,4 @@
 ![](https://img.shields.io/badge/Tools-Mysql-informational?style=flat&logo=mysql)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krobus00&show_icons=true&locale=en&layout=compact" alt="krobus00" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=krobus00&show_icons=true&locale=en&layout=compact&exclude_repo=IoT-Milestone-1,IoT-Milestone-2,iot-data-processing-service,UTS-IoT,IoT-tugas-2,IoT-Assignment-1,Tugas-Besar-Pembelajaran-Mesin_Classification,Tugas-1-Pembelajaran-Mesin-Clustering,Tubes-AKA" alt="krobus00" /></p>
