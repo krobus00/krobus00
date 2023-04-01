@@ -20,5 +20,7 @@
 ![](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krobus00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&exclude_repo=IoT-Milestone-1,IoT-Milestone-2,iot-data-processing-service,UTS-IoT,IoT-tugas-2,IoT-Assignment-1,Tugas-Besar-Pembelajaran-Mesin_Classification,Tugas-1-Pembelajaran-Mesin-Clustering,Tubes-AKA" alt="krobus00" /></p>
+### GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krobus00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&exclude_repo=IoT-Milestone-1,IoT-Milestone-2,iot-data-processing-service,UTS-IoT,IoT-tugas-2,IoT-Assignment-1,Tugas-Besar-Pembelajaran-Mesin_Classification,Tugas-1-Pembelajaran-Mesin-Clustering,Tubes-AKA" alt="krobus00" />
 
