@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://github.com/krobus00/krobus00/blob/master/assets/wave.gif?raw=true" height="30">, I'm Michael Putera Wardana</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krobus00&label=Profile%20views&color=0e75b6&style=flat" alt="krobus00" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=krobus00&label=Profile%20views&color=0e75b6&style=flat" alt="krobus00" /> <a href="https://wakatime.com/@018df4bb-584b-4518-9b6e-98eead7b4f15"><img src="https://wakatime.com/badge/user/018df4bb-584b-4518-9b6e-98eead7b4f15.svg" alt="Total time coded since Feb 29 2024" /></a></p>
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
