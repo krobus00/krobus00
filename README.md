@@ -33,5 +33,3 @@ krobus00</p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krobus00&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&exclude_repo=IoT-Milestone-1,IoT-Milestone-2,iot-data-processing-service,UTS-IoT,IoT-tugas-2,IoT-Assignment-1,Tugas-Besar-Pembelajaran-Mesin_Classification,Tugas-1-Pembelajaran-Mesin-Clustering,Tubes-AKA" alt="krobus00" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krobus00&show_icons=true&locale=en" alt="krobus00" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krobus00&" alt="krobus00" /></p>
